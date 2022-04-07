@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/jiahaog/nativefier#readme",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "cheerio": "^1.0.0-rc.2",
